@@ -1,5 +1,11 @@
 ### Hello there 👋
 
+My name is Nick and I am interested in most topics Computer and Technology related. Most of my work deals with Information Technology, Asset Management, Web Development, and Application Security. Currently working on Capture The Flag events and Certifications. I am interested in creating curriculum for K-12 learning, CTF training, Application and Server Pentesting, Cloud, Bug Bounty, and Red/Blue/Purple team concepts like Adversary Emulation. 
+
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicklmarks)](https://github.com/nicklmarks/github-readme-stats)
+
+
+
 <h2>- ⚡ Fun facts: ...</h2>
 <ul>
   <li>🎺 Musician</li>
@@ -13,7 +19,7 @@
 
 <h2>- 🔭 I’m currently working on ... </h2>
 <ul>
-  <li>Certifications: AZ-500, PCET, CCNA, Cisco CyberOps, CompTia A+, Net+, Sec+, Cloud+</li>
+  <li>Certifications: AZ-500, PCCET, CCNA, Cisco CyberOps, CompTia A+, Net+, Sec+, Cloud+</li>
   <li>Portfolio Updates</li>
   <li>Capture The Flag events and home lab</li>
 </ul>
@@ -39,6 +45,11 @@
 
 <h2>- 👯 I’m looking to collaborate on ...</h2>
 <p>Open Source Projects</p>
+<ul>
+  <li>K-12 and college level curriculum for learning Computer Science and Information Security topics</li>
+  <li>Capture The Flag training and tool development</li>
+  <li>Bug Bounty, Adversary Emulation, and Application Pentesting</li>
+</ul>
 
 
 
